@@ -1,0 +1,181 @@
+﻿station_id,station_name,lines,fare_zones,station_status,transfer_station,accessible,remarks
+st_harrow_and_wealdstone,Harrow & Wealdstone,Bakerloo Line,Zone 5,In Service,Yes,Yes,National Rail interchange
+st_kenton,Kenton,Bakerloo Line,Zone 4/5,In Service,No,Yes,
+st_south_kenton,South Kenton,Bakerloo Line,Zone 4,In Service,No,Yes,
+st_north_wembley,North Wembley,Bakerloo Line,Zone 4,In Service,No,Yes,
+st_wembley_central,Wembley Central,Bakerloo Line,Zone 4,In Service,Yes,Yes,National Rail interchange
+st_stonebridge_park,Stonebridge Park,Bakerloo Line|Northern Line,Zone 3/4,In Service,No,Yes,
+st_harlesden,Harlesden,Bakerloo Line|Northern Line,Zone 3,In Service,No,Yes,
+st_willesden_junction,Willesden Junction,Bakerloo Line,Zone 3,In Service,Yes,Yes,National Rail interchange
+st_kensal_green,Kensal Green,Bakerloo Line,Zone 2/3,In Service,No,Yes,
+st_queens_park,Queen's Park,Bakerloo Line,Zone 2,In Service,Yes,Yes,National Rail interchange
+st_kilburn_park,Kilburn Park,Bakerloo Line,Zone 2,In Service,No,Yes,
+st_maida_vale,Maida Vale,Bakerloo Line,Zone 2,In Service,No,Yes,
+st_warwick_avenue,Warwick Avenue,Bakerloo Line,Zone 2,In Service,No,Yes,
+st_paddington,Paddington,Bakerloo Line|Central Line|Circle Line|Elizabeth Line,Zone 1,In Service,Yes,Yes,Transfer to Bakerloo/Central/Circle/Hammersmith & City/Metropolitan Lines|Transfer to Bakerloo/Central/Hammersmith & City/Metropolitan Lines|Transfer to Bakerloo/Hammersmith & City/Metropolitan Lines|Transfer to Central/ Hammersmith & City/Metropolitan Lines
+st_edgware_road_bakerloo,Edgware Road (Bakerloo),Bakerloo Line,Zone 1,In Service,No,Yes,
+st_marylebone,Marylebone,Bakerloo Line,Zone 1,In Service,Yes,Yes,National Rail interchange
+st_baker_street,Baker Street,Bakerloo Line|Northern Line,Zone 1,In Service,Yes,Yes,Transfer to Bakerloo/Central/Hammersmith & City/Metropolitan/Jubilee Lines|Transfer to Central/ Hammersmith & City/Metropolitan/ Jubilee Lines
+st_portland_place,Portland Place,Bakerloo Line,Zone 1,In Service,No,Yes,
+st_regents_park,Regent's Park,Bakerloo Line,Zone 1,In Service,No,Yes,
+st_oxford_circus,Oxford Circus,Bakerloo Line|Central Line,Zone 1,In Service,Yes,Yes,Transfer to Bakerloo/Victoria Lines|Transfer to Central/Victoria Lines
+st_piccadilly_circus,Piccadilly Circus,Bakerloo Line,Zone 1,In Service,Yes,Yes,Transfer to Piccadilly Line
+st_leicester_square,Leicester Square,Bakerloo Line|Northern Line,Zone 1,In Service,Yes,Yes,Transfer to Bakerloo Line|Transfer to Northern Line
+st_covent_garden,Covent Garden,Bakerloo Line,Zone 1,In Service,No,No,
+st_holborn,Holborn,Bakerloo Line|Central Line,Zone 1,In Service,Yes,Yes,Transfer to Bakerloo/Piccadilly Lines|Transfer to Central Line
+st_charing_cross,Charing Cross,Bakerloo Line|Northern Line,Zone 1,In Service,Yes,Yes,Transfer to Bakerloo/Circle/District Lines|Transfer to Northern/Bakerloo Lines
+st_embankment,Embankment,Bakerloo Line|Circle Line|District Line|Northern Line,Zone 1,In Service,Yes,Yes,Transfer to Bakerloo/Circle/District Lines|Transfer to Bakerloo/Circle/Northern Lines|Transfer to Bakerloo/Northern/District Lines|Transfer to Northern/District/Circle Lines
+st_waterloo,Waterloo,Bakerloo Line|Northern Line,Zone 1,In Service,Yes,Yes,Transfer to Bakerloo/Jubilee/Waterloo & City Lines|Transfer to Northern/Jubilee/Waterloo & City Lines
+st_elephant_and_castle,Elephant & Castle,Bakerloo Line,Zone 1/2,In Service,Yes,Yes,National Rail interchange
+st_epping,Epping,Central Line,Zone 6,In Service,No,Yes,
+st_theydon_bois,Theydon Bois,Central Line,Zone 6,In Service,No,Yes,
+st_debden,Debden,Central Line,Zone 6,In Service,No,Yes,
+st_loughton,Loughton,Central Line,Zone 6,In Service,Yes,Yes,National Rail interchange
+st_buckhurst_hill,Buckhurst Hill,Central Line,Zone 5/6,In Service,No,Yes,
+st_woodford,Woodford,Central Line,Zone 5,In Service,Yes,Yes,Transfer to Hainault Loop
+st_south_woodford,South Woodford,Central Line,Zone 4/5,In Service,No,Yes,
+st_snaresbrook,Snaresbrook,Central Line,Zone 4,In Service,No,Yes,
+st_leytonstone,Leytonstone,Central Line,Zone 3/4,In Service,No,Yes,
+st_leyton,Leyton,Central Line,Zone 3,In Service,No,Yes,
+st_stratford,Stratford,Central Line|Elizabeth Line,Zone 2/3,In Service,Yes,Yes,National Rail/DLR interchange|Transfer to Central/DLR Lines
+st_mile_end,Mile End,Central Line|District Line|Elizabeth Line,Zone 2/3,In Service,No|Yes,Yes,Transfer to Central Line|Transfer to Central/District Lines
+st_bow_road,Bow Road,Central Line|District Line|Elizabeth Line,Zone 2/3,In Service,No,Yes,
+st_bethnal_green,Bethnal Green,Central Line,Zone 2,In Service,No,Yes,
+st_shoreditch_high_street,Shoreditch High Street,Central Line,Zone 1/2,In Service,Yes,Yes,DLR interchange
+st_liverpool_street,Liverpool Street,Central Line|Circle Line|Elizabeth Line,Zone 1,In Service,Yes,Yes,Transfer to Central/Circle/Hammersmith & City/Metropolitan/Waterloo & City Lines|Transfer to Central/Hammersmith & City/Metropolitan/Waterloo & City Lines|Transfer to Circle/Metropolitan/Hammersmith & City/Waterloo & City Lines
+st_bank,Bank,Central Line|Circle Line|DLR,Zone 1,In Service,Yes,Yes,Transfer to Central/Northern/Circle Lines|Transfer to Central/Northern/DLR Lines|Transfer to Northern/DLR Lines
+st_st_pauls,St. Paul's,Central Line,Zone 1,In Service,No,Yes,
+st_chancery_lane,Chancery Lane,Central Line,Zone 1,In Service,No,Yes,
+st_tottenham_court_road,Tottenham Court Road,Central Line|Elizabeth Line|Northern Line,Zone 1,In Service,Yes,Yes,Transfer to Central Line|Transfer to Central/Northern Lines|Transfer to Northern Line
+st_bond_street,Bond Street,Central Line|Elizabeth Line,Zone 1,In Service,Yes,Yes,Transfer to Central/Jubilee Lines|Transfer to Jubilee Line
+st_marble_arch,Marble Arch,Central Line,Zone 1,In Service,No,Yes,
+st_lancaster_gate,Lancaster Gate,Central Line,Zone 1,In Service,No,Yes,
+st_queensway,Queensway,Central Line,Zone 1,In Service,No,Yes,
+st_bayswater,Bayswater,Central Line|Circle Line,Zone 1/2,In Service,No,Yes,
+st_notting_hill_gate,Notting Hill Gate,Central Line|Circle Line,Zone 1/2,In Service,Yes,Yes,Transfer to Central/District Lines|Transfer to District/Circle Lines
+st_holland_park,Holland Park,Central Line,Zone 2,In Service,No,Yes,
+st_shepherds_bush_central,Shepherd's Bush (Central),Central Line,Zone 2,In Service,No,Yes,
+st_white_city,White City,Central Line,Zone 2,In Service,No,Yes,
+st_east_acton,East Acton,Central Line,Zone 2/3,In Service,No,Yes,
+st_north_acton,North Acton,Central Line,Zone 3,In Service,No,Yes,
+st_west_acton,West Acton,Central Line,Zone 3,In Service,No,Yes,
+st_ealing_broadway,Ealing Broadway,Central Line|District Line|Elizabeth Line,Zone 3,In Service,Yes,Yes,National Rail interchange|Transfer to Central/District Lines
+st_ealing_common,Ealing Common,Central Line|District Line,Zone 3,In Service,No,Yes,
+st_acton_town,Acton Town,Central Line|District Line,Zone 3,In Service,Yes,Yes,Transfer to Central/Piccadilly Lines|Transfer to Piccadilly Line
+st_chiswick_park,Chiswick Park,Central Line|District Line,Zone 3,In Service,No,Yes,
+st_turnham_green,Turnham Green,Central Line|District Line,Zone 2/3,In Service,Yes,Yes,Transfer to Central Line|Transfer to District Line
+st_stamford_brook,Stamford Brook,Central Line|District Line,Zone 2,In Service,No,Yes,
+st_ravenscourt_park,Ravenscourt Park,Central Line|District Line,Zone 2,In Service,No,Yes,
+st_hammersmith,Hammersmith,Central Line|District Line,Zone 2,In Service,Yes,Yes,Transfer to Central/Circle/Hammersmith & City Lines|Transfer to District/Circle/Hammersmith & City Lines
+st_edgware_road_circle,Edgware Road (Circle),Circle Line,Zone 1,In Service,Yes,Yes,Transfer to Hammersmith & City/Metropolitan Lines
+st_high_street_kensington,High Street Kensington,Circle Line,Zone 1/2,In Service,Yes,Yes,Transfer to District Line
+st_kensington_olympia,Kensington (Olympia),Circle Line,Zone 2,In Service,Yes,Yes,National Rail interchange
+st_earls_court,Earl's Court,Circle Line|District Line,Zone 1/2,In Service,Yes,Yes,Transfer to Circle/Piccadilly Lines|Transfer to District/Piccadilly Lines
+st_gloucester_road,Gloucester Road,Circle Line|District Line,Zone 1,In Service,Yes,Yes,Transfer to Circle/Piccadilly Lines|Transfer to District/Piccadilly Lines
+st_south_kensington,South Kensington,Circle Line|District Line,Zone 1,In Service,Yes,Yes,Transfer to Circle/Piccadilly Lines|Transfer to District/Piccadilly Lines
+st_sloane_square,Sloane Square,Circle Line|District Line,Zone 1,In Service,No,Yes,
+st_victoria,Victoria,Circle Line|District Line,Zone 1,In Service,Yes,Yes,Transfer to Circle/Victoria Lines|Transfer to Victoria Line
+st_st_jamess_park,St. James's Park,Circle Line|District Line,Zone 1,In Service,No,Yes,
+st_westminster,Westminster,Circle Line|District Line,Zone 1,In Service,Yes,Yes,Transfer to Circle/Jubilee Lines|Transfer to Jubilee Line
+st_temple,Temple,Circle Line|District Line,Zone 1,In Service,No,Yes,
+st_blackfriars,Blackfriars,Circle Line|District Line,Zone 1,In Service,Yes,Yes,National Rail interchange
+st_mansion_house,Mansion House,Circle Line|District Line,Zone 1,In Service,No,Yes,
+st_monument,Monument,Circle Line|DLR|District Line,Zone 1,In Service,Yes,Yes,Transfer to Circle/District/Northern Lines|Transfer to Circle/Northern Lines|Transfer to District Line
+st_tower_hill,Tower Hill,Circle Line|District Line,Zone 1,In Service,No,Yes,
+st_aldgate_east,Aldgate East,Circle Line|District Line,Zone 1/2,In Service,Yes,Yes,Transfer to Circle/Hammersmith & City Lines|Transfer to Hammersmith & City Line
+st_aldgate,Aldgate,Circle Line,Zone 1,In Service,Yes,Yes,Transfer to Metropolitan Line
+st_moorgate,Moorgate,Circle Line,Zone 1,In Service,Yes,Yes,Transfer to Metropolitan/Hammersmith & City Lines
+st_upminster,Upminster,District Line,Zone 6,In Service,Yes,Yes,National Rail interchange
+st_upminster_bridge,Upminster Bridge,District Line,Zone 6,In Service,No,Yes,
+st_rainham,Rainham,District Line,Zone 6,In Service,No,Yes,
+st_purfleet,Purfleet,District Line,Zone 6,In Service,No,Yes,
+st_grays,Grays,District Line,Zone 6,In Service,Yes,Yes,National Rail interchange
+st_tilbury_town,Tilbury Town,District Line,Zone 6,In Service,No,Yes,
+st_east_tilbury,East Tilbury,District Line,Zone 6,In Service,No,Yes,
+st_stanford_le_hope,Stanford-le-Hope,District Line,Zone 6,In Service,Yes,Yes,National Rail interchange
+st_pitsea,Pitsea,District Line,Zone 6,In Service,No,Yes,
+st_benfleet,Benfleet,District Line,Zone 6,In Service,Yes,Yes,National Rail interchange
+st_leigh_on_sea,Leigh-on-Sea,District Line,Zone 6,In Service,No,Yes,
+st_chalkwell,Chalkwell,District Line,Zone 6,In Service,No,Yes,
+st_westcliff_on_sea,Westcliff-on-Sea,District Line,Zone 6,In Service,No,Yes,
+st_southend_central,Southend Central,District Line,Zone 6,In Service,No,Yes,
+st_southend_east,Southend East,District Line,Zone 6,In Service,No,Yes,
+st_shoeburyness,Shoeburyness,District Line,Zone 6,In Service,No,Yes,Eastern Terminus
+st_barking,Barking,District Line,Zone 4,In Service,Yes,Yes,National Rail/DLR interchange
+st_east_ham,East Ham,District Line,Zone 3/4,In Service,No,Yes,
+st_upton_park,Upton Park,District Line,Zone 3,In Service,No,Yes,
+st_plaistow,Plaistow,District Line,Zone 3,In Service,No,Yes,
+st_west_ham,West Ham,District Line,Zone 2/3,In Service,Yes,Yes,National Rail/DLR interchange
+st_cannon_street,Cannon Street,District Line,Zone 1,In Service,Yes,Yes,National Rail interchange
+st_west_kensington,West Kensington,District Line,Zone 2,In Service,No,Yes,
+st_barons_court,Barons Court,District Line,Zone 2,In Service,No,Yes,
+st_south_ealing,South Ealing,District Line,Zone 3,In Service,No,Yes,
+st_north_ealing,North Ealing,District Line,Zone 3,In Service,No,Yes,
+st_hanger_lane,Hanger Lane,District Line,Zone 3/4,In Service,No,Yes,
+st_perivale,Perivale,District Line,Zone 4,In Service,No,Yes,
+st_greenford,Greenford,District Line,Zone 4,In Service,Yes,Yes,National Rail interchange
+st_northolt,Northolt,District Line,Zone 5,In Service,No,Yes,
+st_south_ruislip,South Ruislip,District Line,Zone 5,In Service,Yes,Yes,National Rail interchange
+st_ruislip_gardens,Ruislip Gardens,District Line,Zone 5,In Service,No,Yes,
+st_west_ruislip,West Ruislip,District Line,Zone 6,In Service,Yes,Yes,National Rail interchange
+st_edgware,Edgware,Northern Line,Zone 5,In Service,No,Yes,
+st_burnt_oak,Burnt Oak,Northern Line,Zone 4/5,In Service,No,Yes,
+st_colindale,Colindale,Northern Line,Zone 4,In Service,No,Yes,
+st_kingsbury,Kingsbury,Northern Line,Zone 4,In Service,No,Yes,
+st_wembley_park,Wembley Park,Northern Line,Zone 4,In Service,Yes,Yes,National Rail interchange
+st_willesden_green,Willesden Green,Northern Line,Zone 2/3,In Service,Yes,Yes,National Rail interchange
+st_kilburn,Kilburn,Northern Line,Zone 2/3,In Service,No,Yes,
+st_west_hampstead,West Hampstead,Northern Line,Zone 2,In Service,Yes,Yes,National Rail interchange
+st_finchley_road,Finchley Road,Northern Line,Zone 2,In Service,Yes,Yes,Transfer to Metropolitan Line
+st_swiss_cottage,Swiss Cottage,Northern Line,Zone 2,In Service,No,Yes,
+st_st_johns_wood,St. John's Wood,Northern Line,Zone 2,In Service,No,Yes,
+st_great_portland_street,Great Portland Street,Northern Line,Zone 1,In Service,No,Yes,
+st_euston,Euston,Northern Line,Zone 1,In Service,Yes,Yes,National Rail/ Victoria Line interchange
+st_warren_street,Warren Street,Northern Line,Zone 1,In Service,Yes,Yes,Transfer to Victoria Line
+st_goodge_street,Goodge Street,Northern Line,Zone 1,In Service,No,Yes,
+st_kennington,Kennington,Northern Line,Zone 1/2,In Service,Yes,Yes,Transfer to Charing Cross/Bank Branches
+st_oval,Oval,Northern Line,Zone 2,In Service,No,Yes,
+st_stockwell,Stockwell,Northern Line,Zone 2,In Service,Yes,Yes,Transfer to Victoria Line
+st_clapham_north,Clapham North,Northern Line,Zone 2,In Service,No,Yes,
+st_clapham_common,Clapham Common,Northern Line,Zone 2,In Service,No,Yes,
+st_clapham_south,Clapham South,Northern Line,Zone 2,In Service,No,Yes,
+st_balham,Balham,Northern Line,Zone 3,In Service,Yes,Yes,National Rail interchange
+st_tooting_bec,Tooting Bec,Northern Line,Zone 3,In Service,No,Yes,
+st_tooting_broadway,Tooting Broadway,Northern Line,Zone 3,In Service,No,Yes,
+st_colliers_wood,Colliers Wood,Northern Line,Zone 3,In Service,No,Yes,
+st_south_wimbledon,South Wimbledon,Northern Line,Zone 3,In Service,No,Yes,
+st_morden,Morden,Northern Line,Zone 4,In Service,No,Yes,Southern Terminus
+st_heathrow_terminal_4,Heathrow Terminal 4,Elizabeth Line,Outside Fare Zones,In Service,No,Yes,Special fares apply
+st_heathrow_terminal_5,Heathrow Terminal 5,Elizabeth Line,Outside Fare Zones,In Service,No,Yes,Special fares apply
+st_heathrow_terminals_2_and_3,Heathrow Terminals 2 & 3,Elizabeth Line,Outside Fare Zones,In Service,No,Yes,Special fares apply
+st_terminal_5,Terminal 5,Elizabeth Line,Outside Fare Zones,In Service,No,Yes,Special fares apply
+st_slough,Slough,Elizabeth Line,Zone 6,In Service,Yes,Yes,National Rail interchange
+st_langley,Langley,Elizabeth Line,Zone 6,In Service,No,Yes,
+st_iver,Iver,Elizabeth Line,Zone 6,In Service,No,Yes,
+st_west_drayton,West Drayton,Elizabeth Line,Zone 6,In Service,Yes,Yes,National Rail interchange
+st_hayes_and_harlington,Hayes & Harlington,Elizabeth Line,Zone 5/6,In Service,Yes,Yes,National Rail interchange
+st_southall,Southall,Elizabeth Line,Zone 5,In Service,Yes,Yes,National Rail interchange
+st_hanwell,Hanwell,Elizabeth Line,Zone 5,In Service,No,Yes,
+st_acton_main_line,Acton Main Line,Elizabeth Line,Zone 3,In Service,Yes,Yes,National Rail interchange
+st_farringdon,Farringdon,Elizabeth Line,Zone 1,In Service,Yes,Yes,Transfer to Hammersmith & City/Metropolitan Lines
+st_whitechapel,Whitechapel,Elizabeth Line,Zone 1/2,In Service,Yes,Yes,Transfer to District/Hammersmith & City Lines
+st_stepney_green,Stepney Green,Elizabeth Line,Zone 2,In Service,No,Yes,
+st_shenfield,Shenfield,Elizabeth Line,Zone 6+,In Service,Yes,Yes,National Rail interchange
+st_tower_gateway,Tower Gateway,DLR,Zone 1,In Service,No,Yes,
+st_shadwell,Shadwell,DLR,Zone 1/2,In Service,No,Yes,
+st_wapping,Wapping,DLR,Zone 1/2,In Service,No,Yes,
+st_rotherhithe,Rotherhithe,DLR,Zone 2,In Service,No,Yes,
+st_canada_water,Canada Water,DLR,Zone 2,In Service,Yes,Yes,National Rail interchange
+st_surrey_quays,Surrey Quays,DLR,Zone 2,In Service,No,Yes,
+st_deptford_bridge,Deptford Bridge,DLR,Zone 2,In Service,No,Yes,
+st_elverson_road,Elverson Road,DLR,Zone 2,In Service,No,Yes,
+st_lewisham,Lewisham,DLR,Zone 2,In Service,Yes,Yes,National Rail interchange
+st_island_gardens,Island Gardens,DLR,Zone 2,In Service,No,Yes,
+st_cutty_sark_for_maritime_greenwich,Cutty Sark for Maritime Greenwich,DLR,Zone 2,Temporarily Closed,Yes,No,Closed until spring 2026
+st_greenwich,Greenwich,DLR,Zone 2,In Service,No,Yes,
+st_maze_hill,Maze Hill,DLR,Zone 2,In Service,No,Yes,
+st_charlton,Charlton,DLR,Zone 3,In Service,No,Yes,
+st_woolwich_arsenal,Woolwich Arsenal,DLR,Zone 4,In Service,Yes,Yes,National Rail interchange
+st_plumstead,Plumstead,DLR,Zone 4,In Service,No,Yes,
+st_abbey_wood,Abbey Wood,DLR,Zone 4,In Service,Yes,Yes,Elizabeth Line interchange
+st_hounslow_west,Hounslow West,Hounslow West,Zone 4,In Service,No,Partial,Step-free access for manual wheelchairs only
